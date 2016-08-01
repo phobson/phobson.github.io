@@ -1,0 +1,6 @@
+{
+  "name": "Water is Wet",
+  "tagline": "It really is",
+  "body": "### About\r\nI'm water resources engineer working in Portland, OR. \r\nI enjoy building scientific tools in python, cycling, and playing drums.\r\n\r\n### Open Source Libraries\r\n#### Paramnormal\r\nHopefully, a less confusing API to `scipy.stats.distributions`\r\n\r\nhttp://phobson.github.io/paramnormal/\r\n\r\n#### mpl-probscale\r\nUse probability scales in matplotlib\r\n\r\nhttp://phobson.github.io/mpl-probscale/\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
